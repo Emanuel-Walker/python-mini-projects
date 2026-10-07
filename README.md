@@ -1,3 +1,5 @@
+> **Repository status:** historical learning fork of `Python-World/python-mini-projects`. This repository contains community-contributed projects from the upstream project and is not part of my current portfolio. See `FORK_STATUS.md`.
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
