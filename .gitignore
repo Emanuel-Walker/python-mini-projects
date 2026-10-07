@@ -1,0 +1,8 @@
+# Generated local artifacts
+.DS_Store
+Thumbs.db
+**/__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
